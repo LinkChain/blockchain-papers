@@ -1,5 +1,5 @@
-## Blockchain-Papers
-blockchain papers list
+## Blockchain Papers
+Blockchain Papers List, Updated Weekly.
 ## Table of Contents
 1. [Consensus](#consensus)
 1. [Cryptography](#cryptography)
