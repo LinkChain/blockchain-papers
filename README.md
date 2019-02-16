@@ -62,8 +62,7 @@ Abstract: Cryptocurrencies, based on and led by Bitcoin, have shown promise as i
 This paper presents Bitcoin-NG (Next Generation), a new blockchain protocol designed to scale. Bitcoin-NG is a Byzantine fault tolerant blockchain protocol that is robust to extreme churn and shares the same trust model as Bitcoin.
 In addition to Bitcoin-NG, we introduce several novel metrics of interest in quantifying the security and efficiency of Bitcoin-like blockchain protocols. We implement Bitcoin-NG and perform large-scale experiments at 15% the size of the operational Bitcoin system, using unchanged clients of both protocols. These experiments demonstrate that Bitcoin-NG scales optimally, with bandwidth limited only by the capacity of the individual nodes and latency limited only by the propagation time of the network.
 
-### 18. [Tangaroa] [Tangaroa: a byzantine fault tolerant
-raft](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf).Christopher Copeland and Hongxia Zhong.2016.
+### 18. [Tangaroa] [Tangaroa: a byzantine fault tolerant raft](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf).Christopher Copeland and Hongxia Zhong.2016.
 Abstract: We propose a Byzantine Fault Tolerant variant of the Raft consensus algorithm, BFTRaft, inspired by the original Raft[1] algorithm and the Practical Byzantine Fault Tolerance algorithm[2]. BFT Raft maintains the safety, fault tolerance, and liveness properties of Raft in the presence of Byzantine faults, while also aiming towards to Raft’s goal of simplicity and understandability. We have implemented a proof-of-concept of this algorithm in the Haskell programming language.
 
 
