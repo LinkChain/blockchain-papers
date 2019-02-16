@@ -9,7 +9,7 @@ Blockchain Papers List, Updated Monthly.
 
 
 ## Consensus
-### 1. Byzantine [The byzantine generals problem](https://www-inst.eecs.berkeley.edu/~cs162/sp16/static/readings/Original_Byzantine.pdf).Lamport L, Shostak R, Pease M. ACM Transactions on Programming Languages and Systems (TOPLAS), 1982, 4(3): 382-401. 
+### 1. [Byzantine] [The byzantine generals problem](https://www-inst.eecs.berkeley.edu/~cs162/sp16/static/readings/Original_Byzantine.pdf).Lamport L, Shostak R, Pease M. ACM Transactions on Programming Languages and Systems (TOPLAS), 1982, 4(3): 382-401. 
 Abstract: Reliable computer systems must handle malfunctioning components that give conflicting information to different parts of the system. This situation can be expressed abstractly in terms of a group of generals of the Byzantine army camped with their troops around an enemy city. Communicating only by messenger, the generals must agree upon a common battle plan. However, one or more of them may be traitors who will try to confuse the others. The problem is to find an algorithm to ensure that the loyal generals will reach agreement. It is shown that, using only oral messages, this problem is solvable if and only if more than two-thirds of the generals are loyal; so a single traitor can confound two loyal generals. With unforgeable written messages, the problem is solvable for any number of generals and possible traitors. Applications of the solutions to reliable computer systems are then discussed.
 
 ### 2. FLP [Impossibility of Distributed Consensus with One Faulty Process](https://apps.dtic.mil/dtic/tr/fulltext/u2/a132503.pdf)  Fischer M J, Lynch N A, Paterson M S. Journal of the ACM, 1985, 32(2): 374:382
