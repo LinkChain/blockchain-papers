@@ -217,5 +217,5 @@ Our deployment of HotStuff over a network with over 100 replicas achieves throug
 - [BigchainDB: A Scalable Blockchain Database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. '17
 
 微信公众号：BlockchainPaperClub
-![image](https://github.com/LinkChain/blockchain-papers/wechat.jpg)
+![image](https://github.com/LinkChain/blockchain-papers/blob/master/wechat.jpg)
 
