@@ -208,6 +208,11 @@ Our deployment of HotStuff over a network with over 100 replicas achieves throug
 - [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 - [A Smart Contract for Boardroom Voting with Maximum Voter Privacy](http://fc17.ifca.ai/preproceedings/paper_80.pdf). McCorry P, Shahandashti SF, Hao F. FC '17.
 - [Constant-deposit multiparty lotteries on Bitcoin](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final39.pdf). Bartoletti M, Zunino R. FC '17.
+- [Beagle: A New Framework for Smart Contracts Taking Account of Law](https://ieeexplore.ieee.org/abstract/document/8705875). Tsai W T, Ge N, Jiang J, et al.2019 IEEE International Conference on Service-Oriented System Engineering (SOSE). IEEE, 2019: 134-13411.
+- [Town crier: An authenticated data feed for smart contracts](https://dl.acm.org/citation.cfm?id=2978326).Zhang, F., Cecchetti, E., Croman, K., Juels, A., & Shi, E. (2016, October). ACM.
+- [PDFS: Practical Data Feed Service for Smart Contracts](https://arxiv.org/abs/1808.06641).Guarnizo, Juan, and Pawel Szalachowski. 2018.
+- [Astraea: A decentralized blockchain oracle]https://arxiv.org/abs/1808.00528). Adler J, Berryhill R, Veneris A, et al.2018.
+
 
 
 ## Applications
